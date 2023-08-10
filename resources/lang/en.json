@@ -1,0 +1,28 @@
+{
+    "Hello": "Hello",
+    "You are logged in!": "You are logged in!",
+    "Login": "Login",
+    "Email Address": "Email Address",
+    "Password": "Password",
+    "Remember Me": "Remember Me",
+    "Forgot Your Password?": "Forgot your password?",
+    "Register": "Register",
+    "Language": "Language",
+    "English": "English",
+    "Vietnammese": "Vietnammese",
+    "Logout": "Logout",
+    "UserName": "User Name",
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "Confirm Password": "Confirm Password",
+    "User": "User",
+    "Ticket": "Ticket",
+    "Home": "Home",
+    "Dashboard": "Dashboard",
+    "Manage": "Manage",
+    "Active":"Active",
+    "created_at":"Created At",
+    "updated_at": "Updated At",
+    "Not Active": "Not Active"
+
+}
